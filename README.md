@@ -1,4 +1,4 @@
-[![Header](https://github.com/EvseevRoman/Landing_3d_modeling_courses/blob/main/img/hero__img_690.png)](https://evseevroman.github.io/Landing_3d_modeling_courses/)            Для просмотра кликните по картинке.
+[![Header](https://github.com/EvseevRoman/Landing_3d_modeling_courses/blob/main/img/hero__img_690.png)](https://evseevroman.github.io/Landing_3D_modeling_courses/)            Для просмотра кликните по картинке.
 # Landing: Урсы 3D моделирования
 Практическая работа по вёрстке в онлайн школе "SkillBox".
 ## Цель работы: Закрепить на практике работу с JavaScript-плагинами. В процессе верстки макета «Курсы 3D-моделирования» научиться использовать сетки из библиотеки Bootstrap 4.
